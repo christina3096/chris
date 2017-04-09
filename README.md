@@ -2,7 +2,7 @@
 <body>
 <table>
 <tr>
-<td colspan="2">Bank of Baroda Website does not consist of certain things such as:- </td></tr>
+<td colspan="2">Bank of Baroda </td></tr>
 <tr><td>Page Title</td><td> The Page title length of the page is 48 characters. Most search engines will truncate Page title to 65 characters.</td></tr>
 <tr><td>Meta Description</td><td>The meta description length of the page is 146 characters. Most search engines will truncate meta descriptions to 160 characters.</td></tr>
 <tr><td>Robots.txt Test</td><td>The site use a "robots.txt" file: http://bankofbaroda.co.in/robots.txt</td></tr>
