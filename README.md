@@ -14,7 +14,7 @@ The website does not directs www.bankofbaroda.co.in and bankofbaroda.co.in to th
 <tr><td>Nofollow Tag Checker	</td><td>The webpage does not use the nofollow meta tag. This means that search engins will crawl all links from the webpage.</td></tr>
 <tr><td>Domain Authority	</td><td>It is good to have domain authority more than 20.</td></tr>
 <tr><td>Noindex Tag Checker	</td><td>The webpage does not use the noindex meta tag. This means that the webpage will be read and indexed by search engines.</td></tr>
-<tr>td>HTML Compression/GZIP Test	</td><td>The page is compressed using gzip compression on the code. The HTML is compressed from 67.1 Kb to 17.74 Kb (73 % size savings). 
+<tr><td>HTML Compression/GZIP Test	</td><td>The page is compressed using gzip compression on the code. The HTML is compressed from 67.1 Kb to 17.74 Kb (73 % size savings). 
 This helps ensure a faster loading web page and improved user experience.</td></tr>
 <tr><td>HTML Page Size Test	</td><td> HTML size is 17.74 Kb and this is under the average web page size of 33 Kb. 
 This leads to a faster page loading time than average.</td></tr>
