@@ -25,7 +25,7 @@
 <li>Then for each style attribute found must be properly moved to all declarations in the external CSS file and remove the style attribute.</li></ul></td></tr>
 <tr><td>Image Alt Test</td><td>Not found</td><td>The webpage has 68 'img' tags and 38 of them are missing the required 'alt' attribute.</td><td>You must add an alt attribute to every <img> tag used into your webpage.
 An image with an alternate text specified is inserted using the following HTML line:
-<img src="image.png" alt="text_to_describe_your_image"></td></tr>
+<"img src="image.png" alt="text_to_describe_your_image""></td></tr>
 </table>
 </body>
 </html>
