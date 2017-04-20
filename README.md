@@ -23,9 +23,9 @@
 <tr><td>Incline CSS Test</td><td>Not found</td><td>This web page is using 28 incline CSS styles.</td><td>It is a good practice to move all the inline CSS rules into an external file in order to make your page "lighter" in weight and decrease the code to text ratio.<ul>
 <li>First, check the HTML code of the page and identify all style attributes.</li>
 <li>Then for each style attribute found must be properly moved to all declarations in the external CSS file and remove the style attribute.</li></ul></td></tr>
-<tr><td>Image Alt Test</td><td>Not found</td><td>The webpage has 68 'img' tags and 38 of them are missing the required 'alt' attribute.</td><td>You must add an alt attribute to every <img> tag used into your webpage.
+<tr><td>Image Alt Test</td><td>Not found</td><td>The webpage has 68 'img' tags and 38 of them are missing the required 'alt' attribute.</td><td>You must add an alt attribute to every img tag used into your webpage.
 An image with an alternate text specified is inserted using the following HTML line:
-<"img src="image.png" alt="text_to_describe_your_image""></td></tr>
+<img src=image.png alt=text_to_describe_your_image></td></tr>
 </table>
 </body>
 </html>
