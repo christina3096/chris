@@ -26,6 +26,9 @@
 <tr><td>Image Alt Test</td><td>Not found</td><td>The webpage has 68 'img' tags and 38 of them are missing the required 'alt' attribute.</td><td>You must add an alt attribute to every img tag used into your webpage.
 An image with an alternate text specified is inserted using the following HTML line:
 <img src=image.png alt=text_to_describe_your_image></td></tr>
+<tr><td>Broken Link Test</td><td>Found</td><td>There are 28 links on the web page - 1 of them appear to be broken</td><td>In order to pass this test you must identify within your page all the reported broken links and replace the content of the href attribute with a proper URL.</td></tr>
+<tr><td>Social Media Checker</td><td>Found</td><td>The website is connected successfully with social media using: Facebook; Twitter;</td><td>Social Media Links may boost your search rank and profile ranks in search engine.</td></tr>
+<tr><td>Page Cache Test (Server Side Caching)</td><td>Found</td><td>It has a caching mechanism on the website.</td><td> Caching helps speed page loading times as well as reduces server load.</td></tr>
 </table>
 </body>
 </html>
